@@ -1,0 +1,7 @@
+hak akses admin:
+bisa create read update delete di semua menu per kelas dan per murid
+
+hak akses wali kelas:
+hanya bisa tambah data pada menu kelas yang diajarnya.contoh: walas 4 bukhori Bernama rudi maka rudi hanya bisa tambah data pada menu data kelas bukhori, kriteria kelas bukhori dan alternatif kelas bukhori
+
+password login = username
